@@ -5,8 +5,9 @@
 <p text-align: left>- 🔭 Trabalho atualmente como Instrutor em BI;<br>
 - 🌱 Curso ADS com foco em programação;<br>
 - 👯 Espero me superar sempre nessa nova caminhada;<br>
-- 🤔 Atualmente pretendo dominar as linguagens Python e Java afim de implementar meus conhecimentos e aproveitar a oportunidade profissional que possuo;<br>
+- 🤔 Atualmente pretendo dominar as linguagens linguagens de Backend e Frontend afim de implementar meus conhecimentos e aproveitar a oportunidade profissional que possuo;<br>
 - ⚡ Meu estímulo vem da diversidade de desafios que venho enfrentando conformo sigo rumo ao sucesso;<br>
 - 📫 Conseguem me contactar no e-mail:  Izaiasbatis@hotmail.com;<br>
-- 😄 Pretendo seguir em frente mesmo que em paços pequenos.<br></p></div>
+- 😄 Pretendo seguir em frente mesmo que em paços pequenos.<br></p>
+</div>
 

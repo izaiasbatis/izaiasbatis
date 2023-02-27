@@ -1,6 +1,6 @@
 <div align="center";>
   <img  src="https://user-images.githubusercontent.com/88006072/154549121-ccd9aa5c-4ce9-43ab-9a84-e2d20a98d0cc.jpg"
- width="300px"; height="300px"; border-radius= 50px/></div>
+ width="300px"; height="300px"; border-radius= 50px;/></div>
  <p align="center">Olá pessoal... 👋</p>
 <p text-align: left>- 🔭 Trabalho atualmente como Instrutor em BI;<br>
 - 🌱 Curso ADS com foco em programação;<br>

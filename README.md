@@ -1,32 +1,33 @@
-# Olá, eu sou o Izaias Batista! 👋
+# Olá, eu sou o Izaias Batista!
 
-### Analista de Dados Pleno/Sênior | Especialista em BI & Analytics de Marketing
+### Senior Data Analyst | BI Specialist | Marketing Analytics
 
-[cite_start]Atualmente, atuo na **CBCO** como Analista de Dados, focado na integração de ecossistemas de Marketing e Vendas para suporte à decisão estratégica[cite: 13, 17, 18]. [cite_start]Com um background que une tecnologia e visão consultiva, transformo dados complexos em dashboards executivos e automações que geram impacto real no ROI[cite: 8, 9, 21].
-
----
-
-### 🚀 O que eu entrego:
-- [cite_start]**Engenharia & Modelagem de Dados:** Integração de fontes diversas como SQL (Oracle/MySQL), RD Station, Google Ads e CRMs para criação de bases únicas e confiáveis[cite: 18, 53, 54, 59].
-- [cite_start]**Business Intelligence Avançado:** Desenvolvimento de Dashboards estratégicos em Power BI e TARGIT BI com foco em indicadores de performance e leitura rápida[cite: 17, 23, 25, 45].
-- [cite_start]**Automação & Eficiência:** Criação de pipelines de dados e automação de processos utilizando Python e Power Automate, reduzindo o esforço manual e o tempo de atualização[cite: 19, 49, 51].
-- [cite_start]**Cultura Data-Driven:** Experiência como instrutor e consultor, capacitando times e traduzindo requisitos de negócio em soluções técnicas acionáveis[cite: 26, 27, 28].
+Especialista em transformar ecossistemas de dados complexos em ativos estratégicos. Com sólida experiência no ciclo completo do dado — da ingestão à visualização executiva — meu foco é otimizar processos e maximizar o ROI através de análises de performance e automação inteligente.
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Expertise Técnica (Stack):
 
-| Categoria | Tecnologias |
+| Domínio | Tecnologias & Competências |
 | :--- | :--- |
-| **Linguagens** | [cite_start]Python (Pandas, NumPy), SQL (MySQL, Oracle) [cite: 48, 53, 54, 63] |
-| **Visualização** | [cite_start]Power BI (DAX/M), TARGIT BI, Dashboards Executivos [cite: 42, 43, 45] |
-| **Automação/ETL** | [cite_start]Power Automate, Python Scripts, Integração de APIs (RD Station/Ads) [cite: 51, 56, 57, 59] |
-| **Marketing Analytics** | [cite_start]Funil de Vendas, ROI, Conversão, Google Ads [cite: 20, 57, 58] |
-| **Tecnologia** | [cite_start]Git, Versionamento, Noções de Web (HTML/CSS/JS) [cite: 61, 62] |
+| **Data Engineering & ETL** | [cite_start]Python (Pandas, NumPy), SQL (Oracle, MySQL), Automação de APIs [cite: 48, 50, 53, 54] |
+| **Business Intelligence** | [cite_start]Power BI (DAX/M), TARGIT BI, Modelagem de Dados e Dashboards Executivos [cite: 42, 43, 44, 45] |
+| **Marketing Analytics** | [cite_start]RD Station, Google Ads, Análise de Funil, Conversão e ROI [cite: 56, 57, 58, 59] |
+| **Automação de Processos** | [cite_start]Power Automate, Integrações de CRM e Fluxos de Dados [cite: 49, 51, 59] |
+| **Development & DevOps** | [cite_start]Git, Versionamento, Noções de Web (HTML, CSS, JS) [cite: 61, 62] |
 
 ---
 
-### 📈 Estatísticas de Desenvolvedor:
+### 🚀 O que eu trago para a mesa:
+
+* [cite_start]**Visão Data-Driven:** Tradução de requisitos de negócio complexos em soluções analíticas acionáveis para Stakeholders e Diretoria[cite: 11, 28].
+* [cite_start]**Eficiência Operacional:** Desenvolvimento de automações que reduzem o esforço manual e garantem a integridade da informação[cite: 19, 49].
+* [cite_start]**Performance de Marketing:** Especialista em integrar dados de CRM e Campanhas Digitais para medir a saúde do funil e a eficiência de vendas[cite: 18, 20, 58].
+* [cite_start]**Liderança Técnica:** Experiência como consultor e instrutor, capacitando times técnicos e usuários finais na cultura analítica[cite: 26, 27].
+
+---
+
+### 📊 My GitHub Stats:
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izaias-batista-976ba979&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -35,12 +36,13 @@
 
 ---
 
-### 📫 Vamos nos conectar?
-- [cite_start]**LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/izaias-batista-976ba979/) [cite: 6]
-- [cite_start]**E-mail:** [izaiasbatis@hotmail.com](mailto:izaiasbatis@hotmail.com) [cite: 7]
-- [cite_start]**WhatsApp:** [Fale comigo agora](https://wa.me/5562993394749) [cite: 2]
+### 📫 Contato & Conexões:
+
+* [cite_start]**LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/izaias-batista-976ba979/) [cite: 6]
+* [cite_start]**E-mail:** [izaiasbatis@hotmail.com](mailto:izaiasbatis@hotmail.com) [cite: 7]
+* [cite_start]**WhatsApp:** [Fale comigo agora](https://wa.me/5562993394749) [cite: 2]
 
 ---
 <p align="center">
-  *"Dados são apenas números até que você os transforme em estratégia."*
+  *"Transformando a complexidade dos dados em clareza estratégica."*
 </p>

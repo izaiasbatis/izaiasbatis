@@ -22,7 +22,7 @@ Senior Data Analyst • Business Intelligence • Marketing Analytics • Data A
 ## 🧠 Sobre mim
 
 Especialista em transformar **ecossistemas de dados complexos** em **ativos estratégicos de negócio**.  
-Atuação completa no ciclo do dado — da **ingestão e automação** à **visualização executiva** — com foco em **performance, eficiência operacional e ROI**.
+Atuação completa no ciclo do dado da **ingestão e automação** à **visualização executiva** — com foco em **performance, eficiência operacional e ROI**.
 
 Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando gestores e diretoria na tomada de decisão orientada por dados.
 
@@ -31,7 +31,7 @@ Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando g
 ## 🧰 Expertise Técnica
 
 **Data Engineering & ETL**
-- Python (Pandas, NumPy)
+- Python (Vibe coding)
 - Integração de APIs
 - Automação de pipelines
 

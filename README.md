@@ -1,13 +1,9 @@
 <div align="center">
-  <!-- HEADER DATA / BI -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Izaias%20Batista&fontSize=56&fontAlignY=38&animation=fadeIn&color=0:0f2027,40:203a43,70:2c5364,100:00d2ff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Izaias%20Batista&fontSize=56&fontAlignY=38&animation=fadeIn&color=0:0b132b,50:1c2541,100:3a86ff"
+
     alt="Izaias Batista - Data & BI"
   />
-
-  <!-- ÍCONES QUE REMETEM A DADOS / GRÁFICOS -->
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,postgres,powerbi,git&theme=dark" />
 </div>
 
 <h3 align="center">
@@ -15,11 +11,11 @@ Senior Data Analyst • Business Intelligence • Marketing Analytics • Data A
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-203a43?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-2c5364?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-00d2ff?style=flat&logo=powerbi&logoColor=000"/>
-  <img src="https://img.shields.io/badge/RD%20Station-203a43?style=flat"/>
-  <img src="https://img.shields.io/badge/Google%20Ads-2c5364?style=flat&logo=googleads&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000"/>
+  <img src="https://img.shields.io/badge/RD%20Station-2D9CDB?style=flat"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white"/>
 </p>
 
 ---
@@ -27,7 +23,7 @@ Senior Data Analyst • Business Intelligence • Marketing Analytics • Data A
 ## 🧠 Sobre mim
 
 Especialista em transformar **ecossistemas de dados complexos** em **ativos estratégicos de negócio**.  
-Atuo em todo o ciclo do dado — da **ingestão, automação e modelagem** à **visualização executiva** — com foco em **performance, eficiência operacional e ROI**.
+Atuação completa no ciclo do dado da **ingestão e automação** à **visualização executiva** com foco em **performance, eficiência operacional e ROI**.
 
 Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando gestores e diretoria na tomada de decisão orientada por dados.
 
@@ -36,24 +32,24 @@ Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando g
 ## 🧰 Expertise Técnica
 
 **Data Engineering & ETL**
-- Python (automação, scripts e pipelines)
+- Python (Pandas, NumPy)
 - Integração de APIs
-- Orquestração e consolidação de dados
+- Automação de pipelines
 
 **Business Intelligence**
 - Power BI (DAX, M)
 - TARGIT BI
 - Modelagem de Dados
-- Dashboards Executivos e KPIs
+- Dashboards Executivos
 
 **Marketing Analytics**
 - RD Station
 - Google Ads
-- Funil, Conversão, CAC, LTV e ROI
+- Funil, Conversão, CAC e ROI
 
 **Automação & Integrações**
 - Power Automate
-- Integração de CRM e sistemas corporativos
+- Integração de CRM e sistemas
 
 **Versionamento & Base Dev**
 - Git & GitHub
@@ -81,9 +77,9 @@ Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando g
 
 ## 📫 Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/izaias-batista-976ba979  
+- **LinkedIn:** linkedin.com/in/izaias-batista-976ba979  
 - **E-mail:** izaiasbatis@hotmail.com  
-- **WhatsApp:** https://wa.me/5562993394749  
+- **WhatsApp:** wa.me/5562993394749  
 
 <p align="center">
   <i>Transformando dados em clareza estratégica.</i>

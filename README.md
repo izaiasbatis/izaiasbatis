@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="center">
-Senior Data Analyst • Business Intelligence • Marketing Analytics • Data Automation
+Data Analyst • Business Intelligence • Marketing Analytics • Data Automation
 </h3>
 
 <p align="center">

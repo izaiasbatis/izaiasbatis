@@ -1,13 +1,28 @@
 <div align="center">
+  <!-- Header com gradiente data-driven -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Izaias%20Batista&fontSize=56&fontAlignY=38&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364"
+    src="https://capsule-render.vercel.app/api
+    ?type=waving
+    &height=240
+    &text=Izaias%20Batista
+    &fontSize=56
+    &fontAlignY=38
+    &animation=fadeIn
+    &color=0:0f2027,40:203a43,70:2c5364,100:00d2ff"
     alt="Izaias Batista - Data & BI"
   />
+
+  <!-- Ícones flutuantes (sensação de gráficos / dados) -->
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=python,postgres,powerbi,git&theme=dark" />
+
 </div>
 
 <h3 align="center">
 Senior Data Analyst • Business Intelligence • Marketing Analytics • Data Automation
 </h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -22,7 +37,7 @@ Senior Data Analyst • Business Intelligence • Marketing Analytics • Data A
 ## 🧠 Sobre mim
 
 Especialista em transformar **ecossistemas de dados complexos** em **ativos estratégicos de negócio**.  
-Atuação completa no ciclo do dado da **ingestão e automação** à **visualização executiva** — com foco em **performance, eficiência operacional e ROI**.
+Atuação completa no ciclo do dado da **ingestão e automação** à **visualização executiva** com foco em **performance, eficiência operacional e ROI**.
 
 Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando gestores e diretoria na tomada de decisão orientada por dados.
 

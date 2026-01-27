@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?ype=waving&height=220&text=Izaias%20Batista&fontSize=56&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0b132b,50:1c2541,100:3a86ff"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Izaias%20Batista&fontSize=56&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0b132b,50:1c2541,100:3a86ff"
     alt="Izaias Batista - Data & BI"
   />
 </div>

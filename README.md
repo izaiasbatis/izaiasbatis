@@ -66,6 +66,8 @@ Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando g
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IzaiasBatista&theme=tokyo-night&hide_border=true"/>
+
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IzaiasBatista&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaiasBatista&layout=compact&theme=tokyonight"/>
 </p>

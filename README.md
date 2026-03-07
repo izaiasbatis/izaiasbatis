@@ -31,7 +31,7 @@ Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando g
 ## 🧰 Expertise Técnica
 
 **Data Engineering & ETL**
-- Python (Vibe coding)
+- Python (Básico)
 - Integração de APIs
 - Automação de pipelines
 

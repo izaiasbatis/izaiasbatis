@@ -12,9 +12,16 @@ Data Analyst • Business Intelligence • Marketing Analytics • Data Automati
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000"/>
+  <img src="https://img.shields.io/badge/DAX-1E1E1E?style=flat"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat"/>
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=flat"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/RD%20Station-2D9CDB?style=flat"/>
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta%20Ads-0668E1?style=flat&logo=meta&logoColor=white"/>
 </p>
 
 ---

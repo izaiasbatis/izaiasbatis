@@ -19,7 +19,7 @@ Data Analyst • Business Intelligence • Marketing Analytics • Data Automati
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Especialista em transformar **ecossistemas de dados complexos** em **ativos estratégicos de negócio**.  
 Atuação completa no ciclo do dado da **ingestão e automação** à **visualização executiva** com foco em **performance, eficiência operacional e ROI**.
@@ -28,7 +28,7 @@ Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando g
 
 ---
 
-## 🧰 Expertise Técnica
+## Expertise Técnica
 
 **Data Engineering & ETL**
 - Python (Básico)
@@ -54,7 +54,7 @@ Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando g
 - Git & GitHub
 ---
 
-## 🎯 O que eu entrego
+## O que eu entrego
 
 - **Visão Data-Driven:** Tradução de problemas complexos de negócio em soluções analíticas acionáveis  
 - **Eficiência Operacional:** Automação de processos e redução de esforço manual  
@@ -63,7 +63,7 @@ Experiência sólida integrando dados de **Marketing, CRM e Vendas**, apoiando g
 
 ---
 
-## 📫 Contato
+## Contato
 
 - **LinkedIn:** linkedin.com/in/izaias-batista-976ba979  
 - **E-mail:** izaiasbatis@hotmail.com  
